@@ -28,11 +28,6 @@ recommend
 curl https://raw.githubusercontent.com/wklken/vim-for-server/master/vimrc > ~/.vimrc
 ```
 
-or
-```
-curl https://bit.ly/vim-server > ~/.vimrc
-```
-
 or  use git
 
 ```
