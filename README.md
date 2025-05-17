@@ -11,7 +11,7 @@ Just remove all plugins, keep basic config.
 
 # Screenshot
 
-![screenshot](https://raw.githubusercontent.com/wklken/gallery/master/vim/vim-for-server.png)
+![screenshot](https://raw.githubusercontent.com/mah3uz/gallery/master/vim/vim-for-server.png)
 
 # Install
 
