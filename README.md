@@ -36,22 +36,3 @@ ln -s vim-for-server/vimrc ~/.vimrc
 ```
 
 #### 3. Done, enjoy it
-
-
-# Donation
-
-You can Buy me a coffee:)  [link](http://www.wklken.me/pages/donation.html)
-
-
-------------------------
-------------------------
-
-wklken
-
-Email: wklken@yeah.net
-
-Github: https://github.com/wklken
-
-Blog: [http://www.wklken.me](http://www.wklken.me)
-
-2014-10-26 ShenZhen
